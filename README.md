@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azreen
-- 🌱 I’m currently learning Spring Framework and Android Studio
+- 🌱 I’m currently learning React, Solidity,Spring Framework and Android Studio!
 - 📫 Reach me at Azreen152@gmail.com
 
 <!---
