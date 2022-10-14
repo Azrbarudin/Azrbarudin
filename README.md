@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azreen
-- 🌱 I’m currently learning Spring Framework !
+- 🌱 I’m a Java Spring Dev !
 - 📫 Reach me at Azreen152@gmail.com
 
 <!---
